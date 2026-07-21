@@ -31,7 +31,7 @@ cube.position.set(1, 0, 0)
 cube2.position.set(0, -1, 0)
 
 camera.position.z = 2
-camera.position.x = -1
+camera.position.x = 0
 
 
 let model
